@@ -1,6 +1,7 @@
 //index.html 을 위한 js file
-function Login(username) {
-    console.log(username);
+function Login(username, password) {
+    if(username)console.log(username);
+    if(password)console.log(password);
 };
 
 function Logout(){
