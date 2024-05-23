@@ -11,3 +11,7 @@ function Logout(){
 function rebase_dev1(){
     console.log('rebase_dev1');
 }
+
+function rebase_dev2(){
+    console.log('rebase_dev2');
+}
