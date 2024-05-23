@@ -5,13 +5,13 @@ function Login(username, password) {
 };
 
 function Logout(){
-    console.log('logout');
+    console.log('>>> logout');
 }
 
 function rebase_dev1(){
-    console.log('rebase_dev1');
+    console.log('>>> rebase_dev1');
 }
 
 function rebase_dev2(){
-    console.log('rebase_dev2');
+    console.log('>>> rebase_dev2'); 
 }
